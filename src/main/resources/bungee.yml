@@ -1,0 +1,3 @@
+name: FriendSystem
+version: '${project.version}'
+main: net.thanon.friendsystem.FriendSystem
